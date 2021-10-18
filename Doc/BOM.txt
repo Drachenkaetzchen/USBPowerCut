@@ -1,0 +1,17 @@
+Partlist
+
+Exported from USBPowerCut.brd at 18/10/2021 12:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                  Package                    Library                                        Position (mil)        Orientation
+
+D1       1N4148                 DO35-10                    diode                                          (365 750)             R270
+K1       V23079-A1011-B301      V23079A                    Siemens-Rel                                    (570 750)             R90
+Q1       2N7002                 SOT23                      nxp_60_1_1                                     (385 365)             R90
+R1       100k                   R0805                      rcl                                            (700 360)             R90
+X1       JST-XH-02-PIN-LONG-PAD JST-XH-02-PACKAGE-LONG-PAD Rembrandt Electronics - JST XH Connectors v1-0 (600 150)             R0
+X2       AMP 787616-1           USB                        con-amp                                        (1300 600)            R90
+X3       10104110-0001LF        MICRO_USB                  10104110-0001LF                                (200 600)             R270
