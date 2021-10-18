@@ -10,6 +10,7 @@ A small PCB to control power to a USB device. I've designed this in order to be 
 - Maximum permissible USB current draw: 1A
 - JST XH to control the power. Control voltage 3.3V or 5V.
 - Active power consumption 35mA (only when switched on)
+- USB data lines are passed through
 
 ![](Doc/USBPowerBoard.png)
 
