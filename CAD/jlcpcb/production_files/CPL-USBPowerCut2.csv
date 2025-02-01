@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric,17.35,-4.8,90.0,top
+C2,10uF,C_0603_1608Metric,15.85,-4.825,90.0,top
+IC1,AP2111SG-13,SOIC127P600X175-8N,11.1,-3.3,90.0,top
+J1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,5.76,-15.5,-90.0,top
+J2,Conn_01x02_Pin,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,14.8,-27.4,0.0,top
+J3,USB_A,USB_A_CONNFLY_DS1095-WNR0,13.349,-15.5,90.0,top
+R1,1M,R_0603_1608Metric,3.5,-9.0,0.0,top
+R2,5.1k,R_0603_1608Metric,8.4,-9.0,180.0,top
+R3,5.1k,R_0603_1608Metric,8.4,-7.4,180.0,top
+R4,10k,R_0603_1608Metric,17.35,-1.8,90.0,top
+R5,1M,R_0603_1608Metric,3.5,-7.4,180.0,top

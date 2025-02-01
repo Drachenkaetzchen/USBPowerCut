@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2111SG-13
+D Power Switch ICs - Power Distribution 2A/5.5V SNGL CHANL CURRENT-LIMIT USB SW
+K
+F https://www.diodes.com//assets/Datasheets/AP2101_2111.pdf
+$ENDCMP
+#
+#End Doc Library

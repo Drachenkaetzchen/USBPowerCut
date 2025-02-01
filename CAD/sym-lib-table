@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP2111SG-13")(type "KiCad")(uri "${KIPRJMOD}/USBPowerCut2.pretty/AP2111SG-13.kicad_sym")(options "")(descr ""))
+)
